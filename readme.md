@@ -9,15 +9,16 @@
 4. 售后评价[FAQ]
 5. 联系我们[contact us]
 
-##### 预约界面[booking]
-1. 预约时间
+##### 预约界面[booking]/cd wj
+1. 预约时间 
 2. 产品分类[style]
     * 产品介绍
         * 价格列表[pricing]
-3. 登录、注册
 4. 信息确认（个人信息）表单
-#####产品分类[style]
+
+######登录、注册[sign in]/xxy
+#####产品分类[style]/dyj
     - 产品介绍
         -价格列表
-#####售后评价[FAQ]
-#####联系我们[contact us]
+#####售后评价[FAQ]/xxy
+#####联系我们[contact us]/dyj
