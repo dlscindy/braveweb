@@ -1,0 +1,77 @@
+.container-fluid{
+    padding:0px;
+}
+.row{
+    padding:0px;
+}
+
+.dyj-head{
+    display: flex;
+    justify-content: center;
+}
+.dyj-head-font{
+    font-size: 2vw;
+    color: #28ab8b;
+    font-family: "Comic Sans MS";
+    font-weight: 500;
+    margin-top: 11vw;
+    display: flex;
+    justify-content: center;
+}
+
+.dyj-type{
+    display: flex;
+    justify-content: center;
+    /*margin-top: 5vw;*/
+    margin-left: 2vw;
+}
+.fa-flask{
+    font-size: 5vw;
+    color: #28ab8b;
+    margin-top: 2vw;
+}
+.dyj-pattern{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 1vw;
+    margin-top: 5vw;
+}
+.dyj-topfont{
+    font-size: 2vw;
+    color: #28ab8b;
+    font-weight: 800;
+}
+.dyj-position{
+    margin-left: 2.5vw;
+}
+
+.dyj-btn{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width:25vw;
+    font-size: 1vw;
+    font-weight: 600;
+    background: #28ab8b;
+    border:1px solid #28ab8b;
+    display: flex;
+    justify-content: center;
+}
+.btn:hover{
+    background: #28ab8b;
+}
+.dyj-btn-position{
+    margin-top: 7vw;
+}
+
+.dyj-bottom{
+    margin-top: 8vw;
+    margin-left:2.3vw;
+    width:100%;
+    height:15vw;
+    background: #28ab8b;
+    display: flex;
+    justify-content: center;
+}
