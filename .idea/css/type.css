@@ -1,77 +1,304 @@
-.container-fluid{
-    padding:0px;
+@media screen and (max-width:768px) {
+
+    .dyj-head{
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-head-font{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        margin-top: 11vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    .dyj-type{
+        display: flex;
+        justify-content: center;
+        /*margin-top: 5vw;*/
+        margin-left: 2vw;
+    }
+    .fa-flask{
+        font-size: 20vw;
+        color: #28ab8b;
+        margin-top: 10vw;
+        margin-left: -10vw;
+    }
+    .dyj-pattern{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-left: 1vw;
+        margin-top: 5vw;
+    }
+    .dyj-topfont{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-weight: 800;
+    }
+    .dyj-bottomfont{
+        font-size: 1.5vw;
+        margin-top: -2vw;
+    }
+    .dyj-position{
+        margin-left: 2.5vw;
+    }
+
+    .dyj-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn{
+        width:35vw;
+        font-size: 1vw;
+        font-weight: 600;
+        background: #28ab8b;
+        border:1px solid #28ab8b;
+        display: flex;
+        justify-content: center;
+    }
+    .btn:hover{
+        background: #28ab8b;
+    }
+    .dyj-btn-position{
+        margin-top: 7vw;
+    }
+
+    .dyj-bottom{
+        margin-top: 8vw;
+        margin-left:2.3vw;
+        width:100%;
+        height:15vw;
+        background: #ffffff;
+        display: flex;
+        justify-content: center;
+    }
 }
-.row{
-    padding:0px;
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+
+    .dyj-head{
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-head-font{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        margin-top: 11vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    .dyj-type{
+        display: flex;
+        justify-content: center;
+        /*margin-top: 5vw;*/
+        margin-left: 2vw;
+    }
+    .fa-flask{
+        font-size: 5vw;
+        color: #28ab8b;
+        margin-top: 2vw;
+    }
+    .dyj-pattern{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-left: 1vw;
+        margin-top: 5vw;
+    }
+    .dyj-topfont{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-weight: 800;
+    }
+    .dyj-bottomfont{
+        font-size: 1.5vw;
+        margin-top: -2vw;
+        width:25vw;
+    }
+    .dyj-position{
+        margin-left: 2.5vw;
+    }
+
+    .dyj-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn{
+        width:25vw;
+        font-size: 1vw;
+        font-weight: 600;
+        background: #28ab8b;
+        border:1px solid #28ab8b;
+        display: flex;
+        justify-content: center;
+    }
+    .btn:hover{
+        background: #28ab8b;
+    }
+    .dyj-btn-position{
+        margin-top: 7vw;
+    }
+
+    .dyj-bottom{
+        margin-top: 8vw;
+        margin-left:2.3vw;
+        width:100%;
+        height:15vw;
+        background: #ffffff;
+        display: flex;
+        justify-content: center;
+    }
+
 }
 
-.dyj-head{
-    display: flex;
-    justify-content: center;
-}
-.dyj-head-font{
-    font-size: 2vw;
-    color: #28ab8b;
-    font-family: "Comic Sans MS";
-    font-weight: 500;
-    margin-top: 11vw;
-    display: flex;
-    justify-content: center;
+
+@media screen and (max-width:736px) and (orientation:landscape){
+
+    .dyj-head{
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-head-font{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        margin-top: 11vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    .dyj-type{
+        display: flex;
+        justify-content: center;
+        /*margin-top: 5vw;*/
+        margin-left: 2vw;
+    }
+    .fa-flask{
+        font-size: 5vw;
+        color: #28ab8b;
+        margin-top: 2vw;
+    }
+    .dyj-pattern{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-left: 1vw;
+        margin-top: 5vw;
+    }
+    .dyj-topfont{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-weight: 800;
+    }
+    .dyj-position{
+        margin-left: 2.5vw;
+    }
+
+    .dyj-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn{
+        width:25vw;
+        font-size: 1vw;
+        font-weight: 600;
+        background: #28ab8b;
+        border:1px solid #28ab8b;
+        display: flex;
+        justify-content: center;
+    }
+    .btn:hover{
+        background: #28ab8b;
+    }
+    .dyj-btn-position{
+        margin-top: 7vw;
+    }
+
+    .dyj-bottom{
+        margin-top: 8vw;
+        margin-left:2.3vw;
+        width:100%;
+        height:15vw;
+        background: #ffffff;
+        display: flex;
+        justify-content: center;
+    }
+
 }
 
-.dyj-type{
-    display: flex;
-    justify-content: center;
-    /*margin-top: 5vw;*/
-    margin-left: 2vw;
-}
-.fa-flask{
-    font-size: 5vw;
-    color: #28ab8b;
-    margin-top: 2vw;
-}
-.dyj-pattern{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-left: 1vw;
-    margin-top: 5vw;
-}
-.dyj-topfont{
-    font-size: 2vw;
-    color: #28ab8b;
-    font-weight: 800;
-}
-.dyj-position{
-    margin-left: 2.5vw;
-}
+@media screen and (max-width:1400px) and (min-width: 768px){
+    .dyj-head{
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-head-font{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        margin-top: 11vw;
+        display: flex;
+        justify-content: center;
+    }
 
-.dyj-btn{
-    display: flex;
-    justify-content: center;
-}
-.btn{
-    width:25vw;
-    font-size: 1vw;
-    font-weight: 600;
-    background: #28ab8b;
-    border:1px solid #28ab8b;
-    display: flex;
-    justify-content: center;
-}
-.btn:hover{
-    background: #28ab8b;
-}
-.dyj-btn-position{
-    margin-top: 7vw;
-}
+    .dyj-type{
+        display: flex;
+        justify-content: center;
+    }
+    .fa-flask{
+        font-size: 5vw;
+        color: #28ab8b;
+        margin-top: 2vw;
+    }
+    .dyj-pattern{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-left: 1vw;
+        margin-top: 5vw;
+    }
+    .dyj-topfont{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-weight: 800;
+    }
+    .dyj-position{
+        margin-left: 2.5vw;
+    }
 
-.dyj-bottom{
-    margin-top: 8vw;
-    margin-left:2.3vw;
-    width:100%;
-    height:15vw;
-    background: #28ab8b;
-    display: flex;
-    justify-content: center;
+    .dyj-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn{
+        width:25vw;
+        font-size: 1vw;
+        font-weight: 600;
+        background: #28ab8b;
+        border:1px solid #28ab8b;
+        display: flex;
+        justify-content: center;
+    }
+    .btn:hover{
+        background: #28ab8b;
+    }
+    .dyj-btn-position{
+        margin-top: 7vw;
+    }
+
+    .dyj-bottom{
+        margin-top: 8vw;
+        margin-left:2.3vw;
+        width:100%;
+        height:15vw;
+        background: #ffffff;
+        display: flex;
+        justify-content: center;
+    }
 }

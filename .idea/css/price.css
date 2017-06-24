@@ -1,93 +1,396 @@
-.container-fluid{
-    padding:0px;
+@media screen and (max-width:567px) {
+
+    .dyj-head{
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-head-font{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        margin-top: 11vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    .dyj-title-font{
+        margin-top: 5vw;
+        font-size: 1.5vw;
+        font-weight: 600;
+        color: #b2b2b2;
+        font-family:Arial;
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-titles-font{
+        margin-top: 2vw;
+        font-size: 1.5vw;
+        font-weight: 600;
+        color: #b2b2b2;
+        font-family:Arial;
+        display: flex;
+        justify-content: center;
+    }
+
+    .dyj-price{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 4vw;
+    }
+    .dyj-time-font{
+        width:45vw;
+        height: 10vw;
+        background: #d9fbea;
+        font-size: 4vw;
+        font-family: Arial;
+        font-weight: 800;
+        color: #969696;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .dyj-price-font{
+        width:25vw;
+        height: 10vw;
+        background: #d9fbea;
+        font-size: 4vw;
+        font-family: Arial;
+        font-weight: 600;
+        color: #969696;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .dyj-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn{
+        width:30vw;
+        /*height:3vw;*/
+        font-size: 1.0vw;
+        font-weight: 600;
+        background: #28ab8b;
+        border:1px solid #28ab8b;
+        display: flex;
+        justify-content:center;
+    }
+    .btn:hover{
+        background: #28ab8b;
+    }
+    .dyj-btn-position{
+        margin-top: 4vw;
+    }
+
+    .dyj-bottom{
+        margin-top: 6vw;
+        margin-left:2.3vw;
+        width:100%;
+        height:15vw;
+        background: #ffffff;
+        display: flex;
+        justify-content: center;
+    }
+
 }
-.row{
-    padding:0px;
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+
+    .dyj-head{
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-head-font{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        margin-top: 11vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    .dyj-title-font{
+        margin-top: 2vw;
+        font-size: 1.5vw;
+        font-weight: 600;
+        color: #b2b2b2;
+        font-family:Arial;
+        display: flex;
+        justify-content: center;
+    }
+
+    .dyj-price{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 1vw;
+    }
+    .dyj-time-font{
+        font-size: 1.5vw;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        color: #28ab8b;
+        margin-left: -5vw;
+        display: flex;
+        justify-content: flex-end;
+    }
+    #dyj-times-font{
+        font-size: 1.5vw;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        color: #28ab8b;
+        margin-left: -5vw;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .dyj-price-font{
+        font-size: 1.5vw;
+        font-family: "MV Boli";
+        font-weight: 500;
+        color: #b2b2b2;
+        margin-left: 7vw;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .dyj-line{
+        height:0.05vw;
+        width:40vw;
+        background: #a3ded3;
+        margin-top:1vw;
+    }
+
+    .dyj-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn{
+        width:20vw;
+        /*height:3vw;*/
+        font-size: 1.0vw;
+        font-weight: 600;
+        background: #28ab8b;
+        border:1px solid #28ab8b;
+        display: flex;
+        justify-content:center;
+    }
+    .btn:hover{
+        background: #28ab8b;
+    }
+    .dyj-btn-position{
+        margin-top: 4vw;
+    }
+
+    .dyj-bottom{
+        margin-top: 6vw;
+        margin-left:2.3vw;
+        width:100%;
+        height:15vw;
+        background: #28ab8b;
+        display: flex;
+        justify-content: center;
+    }
+
 }
 
-.dyj-head{
-    display: flex;
-    justify-content: center;
-}
-.dyj-head-font{
-    font-size: 2vw;
-    color: #28ab8b;
-    font-family: "Comic Sans MS";
-    font-weight: 500;
-    margin-top: 11vw;
-    display: flex;
-    justify-content: center;
+
+@media screen and (max-width:736px) and (orientation:landscape){
+
+    .dyj-head{
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-head-font{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        margin-top: 11vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    .dyj-title-font{
+        margin-top: 2vw;
+        font-size: 1.5vw;
+        font-weight: 600;
+        color: #b2b2b2;
+        font-family:Arial;
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-titles-font{
+        margin-top: 2vw;
+        font-size: 1.5vw;
+        font-weight: 600;
+        color: #b2b2b2;
+        font-family:Arial;
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-price{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 1vw;
+    }
+    .dyj-time-font{
+        font-size: 1.5vw;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        color: #28ab8b;
+        margin-left: -5vw;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .dyj-price-font{
+        font-size: 1.5vw;
+        font-family: "MV Boli";
+        font-weight: 500;
+        color: #b2b2b2;
+        margin-left: 7vw;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .dyj-line{
+        height:0.05vw;
+        width:32vw;
+        background: #a3ded3;
+        margin-top:1vw;
+    }
+
+    .dyj-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn{
+        width:20vw;
+        /*height:3vw;*/
+        font-size: 1.0vw;
+        font-weight: 600;
+        background: #28ab8b;
+        border:1px solid #28ab8b;
+        display: flex;
+        justify-content:center;
+    }
+    .btn:hover{
+        background: #28ab8b;
+    }
+    .dyj-btn-position{
+        margin-top: 4vw;
+    }
+
+    .dyj-bottom{
+        margin-top: 6vw;
+        margin-left:2.3vw;
+        width:100%;
+        height:15vw;
+        background: #28ab8b;
+        display: flex;
+        justify-content: center;
+    }
+
 }
 
-.dyj-title-font{
-    margin-top: 2vw;
-    font-size: 1.5vw;
-    font-weight: 600;
-    color: #b2b2b2;
-    font-family:Arial;
-    display: flex;
-    justify-content: center;
-}
+@media screen and (max-width:1400px) and (min-width: 768px){
+    .dyj-head{
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-head-font{
+        font-size: 2vw;
+        color: #28ab8b;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        margin-top: 11vw;
+        display: flex;
+        justify-content: center;
+    }
 
-.dyj-price{
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    margin-top: 1vw;
-}
-.dyj-time-font{
-    font-size: 1.5vw;
-    font-family: "Comic Sans MS";
-    font-weight: 500;
-    color: #28ab8b;
-    margin-left: -5vw;
-    display: flex;
-    justify-content: flex-end;
-}
-.dyj-price-font{
-    font-size: 1.5vw;
-    font-family: "MV Boli";
-    font-weight: 500;
-    color: #b2b2b2;
-    margin-left: 7vw;
-    display: flex;
-    justify-content: flex-start;
-}
-.dyj-line{
-    height:0.05vw;
-    width:40vw;
-    background: #a3ded3;
-    margin-top:1vw;
-}
+    .dyj-title-font{
+        margin-top: 5vw;
+        font-size: 1.5vw;
+        font-weight: 600;
+        color: #b2b2b2;
+        font-family:Arial;
+        display: flex;
+        justify-content: center;
+    }
+    .dyj-titles-font{
+        margin-top: 2vw;
+        font-size: 1.5vw;
+        font-weight: 600;
+        color: #b2b2b2;
+        font-family:Arial;
+        display: flex;
+        justify-content: center;
+    }
 
-.dyj-btn{
-    display: flex;
-    justify-content: center;
-}
-.btn{
-    width:20vw;
-    /*height:3vw;*/
-    font-size: 1.0vw;
-    font-weight: 600;
-    background: #28ab8b;
-    border:1px solid #28ab8b;
-    display: flex;
-    justify-content:center;
-}
-.btn:hover{
-    background: #28ab8b;
-}
-.dyj-btn-position{
-    margin-top: 4vw;
-}
+    .dyj-price{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 1vw;
+    }
+    .dyj-time-font{
+        font-size: 1.5vw;
+        font-family: "Comic Sans MS";
+        font-weight: 500;
+        color: #28ab8b;
+        margin-left: -5vw;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .dyj-price-font{
+        font-size: 1.5vw;
+        font-family: "MV Boli";
+        font-weight: 500;
+        color: #b2b2b2;
+        margin-left: 7vw;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .dyj-line{
+        height:0.05vw;
+        width:25vw;
+        background: rgba(171, 233, 222, 0.58);
+        margin-top:1vw;
+    }
 
-.dyj-bottom{
-    margin-top: 6vw;
-    margin-left:2.3vw;
-    width:100%;
-    height:15vw;
-    background: #28ab8b;
-    display: flex;
-    justify-content: center;
+    .dyj-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .btn{
+        width:15vw;
+        /*height:3vw;*/
+        font-size: 1.0vw;
+        font-weight: 600;
+        background: #28ab8b;
+        border:1px solid #28ab8b;
+        display: flex;
+        justify-content:center;
+    }
+    .btn:hover{
+        background: #28ab8b;
+    }
+    .dyj-btn-position{
+        margin-top: 4vw;
+    }
+
+    .dyj-bottom{
+        margin-top: 6vw;
+        margin-left:2.3vw;
+        width:100%;
+        height:15vw;
+        background: #ffffff;
+        display: flex;
+        justify-content: center;
+    }
 }
