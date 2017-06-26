@@ -26,10 +26,12 @@
         margin-top: 2vw;
         margin-left: 3vw;
     }
-    .dyj-square{
-        height:10vw;
+    .dyj-square-img{
+        height:25vw;
+        width:20vw;
         border:1px solid #b2b2b2;
         margin-top: 5vw;
+        margin-left: -7vw;
     }
     .dyj-name-font{
         font-size: 1vw;
@@ -38,7 +40,7 @@
         margin-left: 1vw;
     }
     .dyj-introduction-font{
-        width:80vw;
+        width:72vw;
         font-size: 0.5vw;
         color: #000;
         font-weight: 600;
@@ -74,6 +76,107 @@
         display: flex;
         justify-content: center;
     }
+
+    /*.dyj-backRose{*/
+    /*background-image: url("../img/Rose.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backAlice{*/
+    /*background-image: url("../img/Alice.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backAnne{*/
+    /*background-image: url("../img/Anne.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backCarol{*/
+    /*background-image: url("../img/Carol.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backChloe{*/
+    /*background-image: url("../img/Chloe.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backClara{*/
+    /*background-image: url("../img/Clara.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backJosie{*/
+    /*background-image: url("../img/Josie.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backKate{*/
+    /*background-image: url("../img/Kate.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backKylie{*/
+    /*background-image: url("../img/Kylie.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLara{*/
+    /*background-image: url("../img/Lara.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLauren{*/
+    /*background-image: url("../img/Lauren.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLisa{*/
+    /*background-image: url("../img/Lisa.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backMaria{*/
+    /*background-image: url("../img/Maria.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backMolly{*/
+    /*background-image: url("../img/Molly.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPenelope{*/
+    /*background-image: url("../img/Penelope.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPiper{*/
+    /*background-image: url("../img/Piper.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSam{*/
+    /*background-image: url("../img/Sam.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSarah{*/
+    /*background-image: url("../img/Sarah.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSusan{*/
+    /*background-image: url("../img/Susan.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backTia{*/
+    /*background-image: url("../img/Tia.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
 }
 @media screen and (min-width: 768px) and (max-width: 1199px) {
 
@@ -104,10 +207,12 @@
         margin-top: 2vw;
         margin-left: 3vw;
     }
-    .dyj-square{
-        height:10vw;
+    .dyj-square-img{
+        height:20vw;
+        width:16vw;
         border:1px solid #b2b2b2;
         margin-top: 2.5vw;
+        margin-left: 0.5vw;
     }
     .dyj-name-font{
         font-size: 1vw;
@@ -120,6 +225,7 @@
         color: #000;
         font-weight: 600;
         margin-left: 6vw;
+        width:15vw;
     }
 
     .dyj-btn{
@@ -151,6 +257,107 @@
         display: flex;
         justify-content: center;
     }
+
+    /*.dyj-backRose{*/
+    /*background-image: url("../img/Rose.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backAlice{*/
+    /*background-image: url("../img/Alice.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backAnne{*/
+    /*background-image: url("../img/Anne.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backCarol{*/
+    /*background-image: url("../img/Carol.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backChloe{*/
+    /*background-image: url("../img/Chloe.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backClara{*/
+    /*background-image: url("../img/Clara.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backJosie{*/
+    /*background-image: url("../img/Josie.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backKate{*/
+    /*background-image: url("../img/Kate.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backKylie{*/
+    /*background-image: url("../img/Kylie.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLara{*/
+    /*background-image: url("../img/Lara.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLauren{*/
+    /*background-image: url("../img/Lauren.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLisa{*/
+    /*background-image: url("../img/Lisa.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backMaria{*/
+    /*background-image: url("../img/Maria.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backMolly{*/
+    /*background-image: url("../img/Molly.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPenelope{*/
+    /*background-image: url("../img/Penelope.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPiper{*/
+    /*background-image: url("../img/Piper.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSam{*/
+    /*background-image: url("../img/Sam.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSarah{*/
+    /*background-image: url("../img/Sarah.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSusan{*/
+    /*background-image: url("../img/Susan.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backTia{*/
+    /*background-image: url("../img/Tia.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
 }
 
 @media screen and (max-width:736px) and (orientation:landscape){
@@ -182,23 +389,25 @@
         margin-top: 2vw;
         margin-left: 3vw;
     }
-    .dyj-square{
-        height:10vw;
+    .dyj-square-img{
+        height:20vw;
+        width:16vw;
         border:1px solid #b2b2b2;
         margin-top: 2.5vw;
+        margin-left: 1.5vw;
     }
     .dyj-name-font{
         font-size: 1vw;
         color: #28ab8b;
         font-weight: 800;
-        margin-left: 6vw;
+        margin-left: 4vw;
     }
     .dyj-introduction-font{
         width:70vw;
         font-size: 0.5vw;
         color: #000;
         font-weight: 600;
-        margin-left: 6vw;
+        margin-left: 4vw;
     }
 
     .dyj-btn{
@@ -231,6 +440,106 @@
         justify-content: center;
     }
 
+    /*.dyj-backRose{*/
+    /*background-image: url("../img/Rose.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backAlice{*/
+    /*background-image: url("../img/Alice.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backAnne{*/
+    /*background-image: url("../img/Anne.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backCarol{*/
+    /*background-image: url("../img/Carol.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backChloe{*/
+    /*background-image: url("../img/Chloe.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backClara{*/
+    /*background-image: url("../img/Clara.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backJosie{*/
+    /*background-image: url("../img/Josie.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backKate{*/
+    /*background-image: url("../img/Kate.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backKylie{*/
+    /*background-image: url("../img/Kylie.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLara{*/
+    /*background-image: url("../img/Lara.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLauren{*/
+    /*background-image: url("../img/Lauren.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLisa{*/
+    /*background-image: url("../img/Lisa.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backMaria{*/
+    /*background-image: url("../img/Maria.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backMolly{*/
+    /*background-image: url("../img/Molly.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPenelope{*/
+    /*background-image: url("../img/Penelope.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPiper{*/
+    /*background-image: url("../img/Piper.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSam{*/
+    /*background-image: url("../img/Sam.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSarah{*/
+    /*background-image: url("../img/Sarah.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSusan{*/
+    /*background-image: url("../img/Susan.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backTia{*/
+    /*background-image: url("../img/Tia.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
 }
 
 @media screen and (max-width:1400px) and (min-width: 768px){
@@ -261,10 +570,11 @@
         margin-top: 2vw;
         margin-left: 2vw;
     }
-    .dyj-square{
+    .dyj-square-img{
         height:10vw;
+        width:8vw;
         border:1px solid #b2b2b2;
-        margin-top: 2.5vw;
+        margin-top: 0.5vw;
     }
     .dyj-name-font{
         font-size: 1vw;
@@ -309,4 +619,105 @@
         display: flex;
         justify-content: center;
     }
+
+    /*.dyj-backRose{*/
+    /*background-image: url("../img/Rose.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backAlice{*/
+    /*background-image: url("../img/Alice.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backAnne{*/
+    /*background-image: url("../img/Anne.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backCarol{*/
+    /*background-image: url("../img/Carol.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backChloe{*/
+    /*background-image: url("../img/Chloe.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backClara{*/
+    /*background-image: url("../img/Clara.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backJosie{*/
+    /*background-image: url("../img/Josie.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backKate{*/
+    /*background-image: url("../img/Kate.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backKylie{*/
+    /*background-image: url("../img/Kylie.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLara{*/
+    /*background-image: url("../img/Lara.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLauren{*/
+    /*background-image: url("../img/Lauren.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backLisa{*/
+    /*background-image: url("../img/Lisa.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backMaria{*/
+    /*background-image: url("../img/Maria.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backMolly{*/
+    /*background-image: url("../img/Molly.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPenelope{*/
+    /*background-image: url("../img/Penelope.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPiper{*/
+    /*background-image: url("../img/Piper.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSam{*/
+    /*background-image: url("../img/Sam.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSarah{*/
+    /*background-image: url("../img/Sarah.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSusan{*/
+    /*background-image: url("../img/Susan.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backTia{*/
+    /*background-image: url("../img/Tia.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
 }
