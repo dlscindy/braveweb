@@ -20,12 +20,52 @@
         /*margin-top: 5vw;*/
         margin-left: 2vw;
     }
-    .fa-flask{
-        font-size: 20vw;
-        color: #28ab8b;
-        margin-top: 10vw;
+    .dyj-square{
+        width:11vw;
+        height:11vw;
+        margin-top: 5vw;
         margin-left: -10vw;
     }
+    /*.dyj-backSwedish{*/
+    /*background-image: url("../img/Swedish.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSports{*/
+    /*background-image: url("../img/Sports.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backWork{*/
+    /*background-image: url("../img/Work.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backThai{*/
+    /*background-image: url("../img/Thai.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backDeep{*/
+    /*background-image: url("../img/Deep.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backRelaxing{*/
+    /*background-image: url("../img/Relaxing.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backCouples{*/
+    /*background-image: url("../img/Couples.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPre{*/
+    /*background-image: url("../img/Pre.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
     .dyj-pattern{
         display: flex;
         justify-content: center;
@@ -98,11 +138,52 @@
         /*margin-top: 5vw;*/
         margin-left: 2vw;
     }
-    .fa-flask{
-        font-size: 5vw;
-        color: #28ab8b;
-        margin-top: 2vw;
+    .dyj-square{
+        width:9vw;
+        height:9vw;
+        margin-top: 4vw;
+        margin-left: -10vw;
     }
+    /*.dyj-backSwedish{*/
+    /*background-image: url("../img/Swedish.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSports{*/
+    /*background-image: url("../img/Sports.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backWork{*/
+    /*background-image: url("../img/Work.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backThai{*/
+    /*background-image: url("../img/Thai.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backDeep{*/
+    /*background-image: url("../img/Deep.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backRelaxing{*/
+    /*background-image: url("../img/Relaxing.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backCouples{*/
+    /*background-image: url("../img/Couples.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPre{*/
+    /*background-image: url("../img/Pre.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
     .dyj-pattern{
         display: flex;
         justify-content: center;
@@ -117,7 +198,7 @@
     }
     .dyj-bottomfont{
         font-size: 1.5vw;
-        margin-top: -2vw;
+        margin-top: 1vw;
         width:25vw;
     }
     .dyj-position{
@@ -179,11 +260,51 @@
         /*margin-top: 5vw;*/
         margin-left: 2vw;
     }
-    .fa-flask{
-        font-size: 5vw;
-        color: #28ab8b;
-        margin-top: 2vw;
+    .dyj-square{
+        width:7vw;
+        height:7vw;
+        margin-top: -1vw;
     }
+    /*.dyj-backSwedish{*/
+    /*background-image: url("../img/Swedish.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSports{*/
+    /*background-image: url("../img/Sports.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backWork{*/
+    /*background-image: url("../img/Work.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backThai{*/
+    /*background-image: url("../img/Thai.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backDeep{*/
+    /*background-image: url("../img/Deep.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backRelaxing{*/
+    /*background-image: url("../img/Relaxing.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backCouples{*/
+    /*background-image: url("../img/Couples.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPre{*/
+    /*background-image: url("../img/Pre.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
     .dyj-pattern{
         display: flex;
         justify-content: center;
@@ -251,11 +372,50 @@
         display: flex;
         justify-content: center;
     }
-    .fa-flask{
-        font-size: 5vw;
-        color: #28ab8b;
-        margin-top: 2vw;
+    .dyj-square{
+        width:7vw;
+        height:7vw;
     }
+    /*.dyj-backSwedish{*/
+    /*background-image: url("../img/Swedish.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backSports{*/
+    /*background-image: url("../img/Sports.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backWork{*/
+    /*background-image: url("../img/Work.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backThai{*/
+    /*background-image: url("../img/Thai.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backDeep{*/
+    /*background-image: url("../img/Deep.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backRelaxing{*/
+    /*background-image: url("../img/Relaxing.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backCouples{*/
+    /*background-image: url("../img/Couples.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
+    /*.dyj-backPre{*/
+    /*background-image: url("../img/Pre.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
+    /*}*/
     .dyj-pattern{
         display: flex;
         justify-content: center;
@@ -267,9 +427,13 @@
         font-size: 2vw;
         color: #28ab8b;
         font-weight: 800;
+        width:20vw;
+    }
+    .dyj-bottomfont{
+        width:18vw;
     }
     .dyj-position{
-        margin-left: 2.5vw;
+        margin-left: 0.5vw;
     }
 
     .dyj-btn{
