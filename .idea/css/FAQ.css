@@ -1,86 +1,101 @@
-.faq{
-	height: auto;
+.faq {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-}
-.text{
 	height: auto;
+}
+
+.text {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+	height: auto;
 	margin-bottom: 3em;
 }
-.text span{
-		font-size: 2.3em;
-		color: #64D2A3;
-	}
-.specific{
+
+.text span {
+	color: #64D2A3;
+	font-size: 2.3em;
+}
+
+.specific {
 	width: 63%;
 }
-.specific span{
+
+.specific span {
     color: #64D2A3;
     font-size: 1.5em;
 }
-.specific p{
+
+.specific p {
     color: #666;
     font-size: 1em;
     word-break : break-all; 
 }
-@media screen and (max-width:768px){
-	.text span{
-    font-size: 1.5em;
-    color: #64D2A3;
+
+@media screen and (max-width:768px) {
+	.text span {
+		color: #64D2A3;
+		font-size: 1.5em;
+	}
+
+	.specific {
+		width: 90%;
+    }
+
+	.specific span {
+		color: #64D2A3;
+		font-size: 1.2em;
+	}
+
+	.specific p {
+		color: #666;
+		font-size: 0.5em;
+		word-break : break-all;
+	}
 }
-.specific{
-	width: 90%;
-}
-.specific span{
-    color: #64D2A3;
-    font-size: 1.2em;
-}
-.specific p{
-    color: #666;
-    font-size: 0.5em;
-    word-break : break-all; 
-}
-}
-@media screen and (min-width: 768px) and (max-width: 1199px){
-	.text span{
+
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+	.text span {
+		color: #64D2A3;
 		font-size: 1.9em;
-		color: #64D2A3;
 	}
-		.specific{
-	width: 70%;
+
+	.specific {
+		width: 70%;
+    }
+
+	.specific span {
+		color: #64D2A3;
+		font-size: 1em;
+    }
+
+    .specific p {
+		color: #666;
+		font-size: 0.8em;
+		word-break : break-all;
+    }
 }
-	.specific span{
-    color: #64D2A3;
-    font-size: 1em;
-}
-    .specific p{
-    color: #666;
-    font-size: 0.8em;
-    word-break : break-all; 
-}
-}
-@media screen and (max-width:736px) and (orientation:landscape){
-	.text span{
+
+@media screen and (max-width:736px) and (orientation:landscape) {
+	.text span {
+		color: #64D2A3;
 		font-size: 2em;
-		color: #64D2A3;
 	}
-			.specific{
-	width: 88%;
-}
-	.specific span{
-    color: #64D2A3;
-    font-size: 1em;
-}
-    .specific p{
-    color: #666;
-    font-size: 0.8em;
-    word-break : break-all; 
-}
+	.specific {
+		width: 88%;
+    }
+	.specific span {
+		color: #64D2A3;
+		font-size: 1em;
+    }
+
+    .specific p {
+		color: #666;
+		font-size: 0.8em;
+		word-break : break-all;
+	}
 }
 
 

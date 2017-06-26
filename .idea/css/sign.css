@@ -158,42 +158,44 @@
 
 @media screen and (max-width:736px) and (orientation:landscape){
 	.text{
-	height: auto;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	margin-bottom: 3em;
-}
-	.text span{
-		font-size: 2.5em;
+		height: auto;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		margin-bottom: 3em;
+    }
+
+	.text span {
 		color: #666666;
+		font-size: 2.5em;
 	}
-.identity{
-	width: 42%;
-	height: auto;
-	display: flex;
-	flex-direction: column;
-}
-  .identity-facebook{
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	width: auto;
-	height: 27px;
-	background-color: #3D5A94;
-	border-radius: 3px;
-    font-size: 1em;
-    color: white;
-    margin-top: 0.8em;
-   }
-   .state p{
-    font-size: 0.3em;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	word-break : break-all; 
-}
+
+    .identity {
+		width: 42%;
+		height: auto;
+		display: flex;
+		flex-direction: column;
+	}
+    .identity-facebook {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: auto;
+		height: 27px;
+		margin-top: 0.8em;
+		border-radius: 3px;
+		background-color: #3D5A94;
+		color: white;
+		font-size: 1em;
+	}
+    .state p {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		word-break : break-all;
+		font-size: 0.3em;
+	}
 }
 
 
